@@ -1,0 +1,27 @@
+.Palette {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+}
+
+.pc-palette {
+  width: 80%;
+  height: 60%;
+  margin: auto;
+  margin-left: 3rem;
+}
+
+.tablet-palette {
+  width: 46%;
+  height: 80%;
+  margin: auto;
+  margin-left: 1rem;
+  margin-top: 1rem;
+}
+
+.mobile-palette {
+  width: 80%;
+  height: 30vh;
+  margin: auto;
+  margin-top: 1rem;
+}

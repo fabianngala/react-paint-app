@@ -1,0 +1,39 @@
+
+.Colorpicker {
+  margin: auto;
+}
+
+.pc-colorpicker {
+  width: 80%;
+  height: 34%;
+}
+
+.tablet-colorpicker {
+  width: 34%;
+  height: 86%;
+  margin: auto;
+  margin-left: 2rem;
+  margin-top: 0;
+}
+
+.PickerComponents {
+  height: 90%;
+  width: 60%;
+  box-shadow: 1px 1px 3px rgba(30, 30, 30, .6);
+  margin: auto;
+  padding-top: .2rem;
+}
+
+.SaturationContainer, .HueContainer {
+  position: relative;
+  margin: .2rem;
+}
+
+.SaturationContainer {
+  height: 86%;
+  margin-top: .2rem;
+}
+
+.HueContainer {
+  height: .62rem;
+}

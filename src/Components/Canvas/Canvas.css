@@ -1,0 +1,33 @@
+.Canvas {
+  margin: 1rem;
+  display: flex;
+  flex-direction: column;
+}
+
+.row {
+  display: flex;
+}
+
+.pc-canvas {
+  height: 66vh;
+  width: 46vw;
+  margin: auto;
+  margin-top: 2rem;
+  margin-left: 1rem;
+}
+
+.mobile-canvas {
+  width: 80vw;
+  height: 46vh;
+  margin: auto;
+  margin-top: 3rem;
+  margin-bottom: 1rem;
+}
+
+.tablet-canvas {
+  width: 90vw;
+  height: 60vh;
+  margin: auto;
+  margin-top: 1rem;
+  margin-bottom: 3rem;
+}
